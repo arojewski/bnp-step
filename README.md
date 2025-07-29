@@ -1,6 +1,6 @@
 # bnp-step
 
-:construction: This page is actively under construction! Check back often for updates. :construction:
+:bangbang: For the most up-to-date code, please visit https://github.com/LabPresse/bnp-step :bangbang:
 
 This repository contains the Python scripts and helper functions for BNP-Step, a computational method described in [An accurate probabilistic step finder for time-series analysis, bioRxiv 2023](https://www.biorxiv.org/content/10.1101/2023.09.19.558535v1).
 
@@ -34,4 +34,4 @@ If you would like to compare results from BNP-Step to a BIC-based method, we hav
 
 ## Questions? Contact us!
 
-BNP-Step is a work in progress. Further documentation will be provided as it is created. If you require assistance or would like more details, please do not hesitate to contact us at arojewsk@asu.edu or spresse@asu.edu
+BNP-Step is a work in progress. Further documentation will be provided as it is created. If you require assistance or would like more details, please do not hesitate to contact us at spresse@asu.edu
